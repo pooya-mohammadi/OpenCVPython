@@ -1,6 +1,6 @@
 # OpenCVPython
 
-This repository is created for the OpenCV with Python course.
+This repository is created for the OpenCV with Python tutorial.
 
 You can find the videos of the repo in the following youtube channel:
 
