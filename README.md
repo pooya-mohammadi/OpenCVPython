@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=YOOgYcHUfWY&list=PL2g_5adpoaeKnctVcTx3hiskE_rdDp
 
 I'm Pooya Mohammadi and you can contact me from one of the following ways:
 
-telegram id: @Pooya_Mohammadi_K
+telegram id: https://t.me/Pooya_Mohammadi_K
 
 LinkedIn: https://linkedin.com/in/pooya-mohammadi
 
